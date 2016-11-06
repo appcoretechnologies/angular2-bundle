@@ -1,0 +1,44 @@
+{
+  "name": "angular2-bundle",
+  "version": "2.1.2",
+  "description": "Dependency bundle for all the Angular 2 related packages.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "np --skip-cleanup",
+    "test": "index.js"
+  },
+  "dependencies": {
+    "@angular/common": "^2.1.2",
+    "@angular/compiler": "^2.1.2",
+    "@angular/compiler-cli": "^2.1.2",
+    "@angular/core": "^2.1.2",
+    "@angular/forms": "^2.1.2",
+    "@angular/http": "^2.1.2",
+    "@angular/platform-browser": "^2.1.2",
+    "@angular/platform-browser-dynamic": "^2.1.2",
+    "@angular/platform-server": "^2.1.2",
+    "@angular/router": "^3.1.2",
+    "core-js": "^2.4.1",
+    "rxjs": "^5.0.0-beta.12",
+    "zone.js": "^0.6.26"
+  },
+  "devDependencies": {
+    "np": "^2.10.0",
+    "typescript": "^2.0.2"
+  },
+  "peerDependencies": {
+    "typescript": "^2.0.2"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "author": {
+    "name": "blacksonic",
+    "email": "soos.gabor86@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blacksonic/angular2-bundle.git"
+  },
+  "license": "ISC"
+}
