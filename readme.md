@@ -6,6 +6,12 @@ It aims to reduce the package number and it's maintenance.
 The package version is in sync with the version of ```@angular/core```.
 Includes additional packages necessary to run an Angular 2 application.
 
+### Installation
+
+```
+npm install angular2-bundle --save
+```
+
 ### Included packages
 
 - @angular/common
