@@ -1,4 +1,6 @@
 # angular2-bundle
+[![Dependency Status](https://david-dm.org/blacksonic/angular2-bundle.svg)](https://david-dm.org/blacksonic/angular2-bundle)
+[![devDependency Status](https://david-dm.org/blacksonic/angular2-bundle/dev-status.svg)](https://david-dm.org/blacksonic/angular2-bundle?type=dev)
 
 Dependency bundle for all the Angular 2 related packages.
 It aims to reduce the package number and it's maintenance.
