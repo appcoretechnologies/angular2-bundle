@@ -1,6 +1,6 @@
 {
   "name": "angular2-bundle",
-  "version": "2.1.2",
+  "version": "2.1.3",
   "description": "Dependency bundle for all the Angular 2 related packages.",
   "main": "index.js",
   "scripts": {
