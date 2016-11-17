@@ -8,24 +8,24 @@ It aims to reduce the package number.
 Instead of this
 ```
 "dependencies": {
-  "@angular/common": "~2.2.0",
-  "@angular/compiler": "~2.2.0",
-  "@angular/core": "~2.2.0",
-  "@angular/forms": "~2.2.0",
-  "@angular/http": "~2.2.0",
-  "@angular/platform-browser": "~2.2.0",
-  "@angular/platform-browser-dynamic": "~2.2.0",
-  "@angular/router": "~3.2.0",
-  "@angular/upgrade": "~2.2.0",
-  "core-js": "~2.4.1",
-  "rxjs": "~5.0.0-beta.12",
-  "zone.js": "~0.6.26"
+  "@angular/common": "2.2.1",
+  "@angular/compiler": "2.2.1",
+  "@angular/core": "2.2.1",
+  "@angular/forms": "2.2.1",
+  "@angular/http": "2.2.1",
+  "@angular/platform-browser": "2.2.1",
+  "@angular/platform-browser-dynamic": "2.2.1",
+  "@angular/router": "3.2.1",
+  "@angular/upgrade": "2.2.1",
+  "core-js": "2.4.1",
+  "rxjs": "5.0.0-beta.12",
+  "zone.js": "0.6.26"
 }
 ```
 you can write this
 ```
 "dependencies": {
-  "angular2-bundle": "2.2.0"
+  "angular2-bundle": "2.2.1"
 }
 ```
 
