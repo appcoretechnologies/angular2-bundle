@@ -1,6 +1,6 @@
 {
   "name": "angular5-bundle",
-  "version": "5.2.8",
+  "version": "5.2.9",
   "description": "Dependency bundle for all the Angular 2 related packages.",
   "main": "index.js",
   "scripts": {
